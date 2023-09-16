@@ -22,7 +22,7 @@ PRIVATE_ACCESS_KEY="secret"
 LOCAL_DATABASE_ENDPOINT="http://localhost:8000"
 TABLE_AUTOCREATE="true"
 TABLE_AUTOUPDATE="false"
-APP_NAME="YourAppName"
+APP_NAME="shop-api"
 DEVELOPMENT="true"
 EOF
 
